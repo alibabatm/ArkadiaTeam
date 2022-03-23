@@ -1,0 +1,233 @@
+{
+  "title": "Tougen Anki",
+  "description": "Shiki to nastolatek o skomplikowanych relacjach z ojcem, wszystko komplikuje się jeszcze bardziej, kiedy okazuje się, że w jego żyłach płynie krew oni. ",
+  "artist": "",
+  "author": "",
+  "cover": "https://static.wikia.nocookie.net/tougen_anki/images/d/d4/Volume_3.jpg",
+  "chapters": {
+    "1": {
+      "title": "Krew Oni",
+      "volume": "1",
+      "groups": {
+        "KaguraScan": "/proxy/api/imgur/chapter/9K3wm6W/"
+      },
+      "last_updated": "12345"
+    },
+    "2": {
+      "title": "Korporacja Momotarou",
+      "volume": "1",
+      "groups": {
+        "KaguraScan": "/proxy/api/imgur/chapter/WajB1KH/"
+      },
+      "last_updated": "23456"
+    },
+    "3": {
+      "title": "Prawdziwy pech",
+      "volume": "1",
+      "groups": {
+        "KaguraScan": "/proxy/api/imgur/chapter/uJKZ75J/"
+      },
+      "last_updated": "34567"
+     },
+    "4": {
+      "title": "Obfite zbiory",
+      "volume": "1",
+      "groups": {
+        "KaguraScan": "/proxy/api/imgur/chapter/1HMXPed/"
+      },
+      "last_updated": "45678"
+      },
+    "5": {
+      "title": "Jeśli chcesz odnieść sukces, ciągle wygrywaj",
+      "volume": "1",
+      "groups": {
+        "KaguraScan": "/proxy/api/imgur/chapter/1aUofPk/"
+      },
+      "last_updated": "56789"
+     },
+    "6": {
+      "title": "Erozja krwi, uwolnienie",
+      "volume": "1",
+      "groups": {
+        "KaguraScan": "/proxy/api/imgur/chapter/FlhOfWO/"
+      },
+      "last_updated": "67890"
+     },
+    "7": {
+      "title": "Zabiję cię...",
+      "volume": "2",
+      "groups": {
+        "KaguraScan": "/proxy/api/imgur/chapter/aT1lXPr/"
+      },
+      "last_updated": "78901" 
+     },
+    "8": {
+      "title": "Nie zostawię cię",
+      "volume": "2",
+      "groups": {
+        "KaguraScan": "/proxy/api/imgur/chapter/qpel3OX/"
+      },
+      "last_updated": "89012" 
+       },
+    "9": {
+      "title": "Ja... dopiero zaczynam!",
+      "volume": "2",
+      "groups": {
+        "KaguraScan": "/proxy/api/imgur/chapter/B79hcWi/"
+      },
+      "last_updated": "90123" 
+     },
+    "10": {
+      "title": "To nie moja broszka",
+      "volume": "2",
+      "groups": {
+        "KaguraScan": "/proxy/api/imgur/chapter/3dAIgdL/"
+      },
+      "last_updated": "101233" 
+      },
+    "11": {
+      "title": "Twój ojciec",
+      "volume": "2",
+      "groups": {
+        "KaguraScan": "/proxy/api/imgur/chapter/IHLsAP9/"
+      },
+      "last_updated": "111234" 
+     },
+    "12": {
+      "title": "Pomóż mi",
+      "volume": "2",
+      "groups": {
+        "KaguraScan": "/proxy/api/imgur/chapter/eBv5X0g/"
+      },
+      "last_updated": "123456" 
+      },
+    "13": {
+      "title": "Docierasz do celu",
+      "volume": "2",
+      "groups": {
+        "KaguraScan": "/proxy/api/imgur/chapter/70By8A1/"
+      },
+      "last_updated": "133456"
+       },
+    "14": {
+      "title": "Niebezpieczni ludzie",
+      "volume": "2",
+      "groups": {
+        "KaguraScan": "/proxy/api/imgur/chapter/BdT3YUL/"
+      },
+      "last_updated": "133456"
+       },
+    "15": {
+      "title": "Oiranzaka Kyouya",
+      "volume": "2",
+      "groups": {
+        "KaguraScan": "/proxy/api/imgur/chapter/2yegxzB/"
+      },
+      "last_updated": "133456" 
+       },
+    "16": {
+      "title": "To moje pole bitwy",
+      "volume": "3",
+      "groups": {
+        "KaguraScan": "/proxy/api/imgur/chapter/VMD19WQ/"
+      },
+      "last_updated": "133456"
+       },
+    "17": {
+      "title": "Granica obrzydliwości",
+      "volume": "3",
+      "groups": {
+        "KaguraScan": "/proxy/api/imgur/chapter/wsXVNjE/"
+      },
+      "last_updated": "133456"
+       },
+    "18": {
+      "title": "Powinna istnieć granica tego, jak bardzo można być zdeprawowanym",
+      "volume": "3",
+      "groups": {
+        "KaguraScan": "/proxy/api/imgur/chapter/EaAuEmG/"
+      },
+      "last_updated": "133456"
+       },
+    "19": {
+      "title": "Nie przeszkadza mi bycie złym",
+      "volume": "3",
+      "groups": {
+        "KaguraScan": "/proxy/api/imgur/chapter/1BdXvMd/"
+      },
+      "last_updated": "133456"
+       },
+    "20": {
+      "title": "Ślicznotki są takie kłopotliwe",
+      "volume": "3",
+      "groups": {
+        "KaguraScan": "/proxy/api/imgur/chapter/mjYDAu9/"
+      },
+      "last_updated": "133456"
+       },
+    "21": {
+      "title": "Przygotowania zakończone",
+      "volume": "3",
+      "groups": {
+        "KaguraScan": "/proxy/api/imgur/chapter/XqLNz0e/"
+      },
+      "last_updated": "133456"
+       },
+    "22": {
+      "title": "Obsesyjnie oddana kobieta",
+      "volume": "3",
+      "groups": {
+        "KaguraScan": "/proxy/api/imgur/chapter/UOn7gxy/"
+      },
+      "last_updated": "133456"
+       },
+    "23": {
+      "title": "Czysta patologiczna namiętność",
+      "volume": "3",
+      "groups": {
+        "KaguraScan": "/proxy/api/imgur/chapter/d5a9bS2/"
+      },
+      "last_updated": "133456"
+       },
+    "24": {
+      "title": "Nie ma mowy, nic z tego",
+      "volume": "3",
+      "groups": {
+        "KaguraScan": "/proxy/api/imgur/chapter/J8AAsHz/"
+      },
+      "last_updated": "133456"
+      },
+    "25": {
+      "title": "Legenda o niewiarygodnym bohaterze",
+      "volume": "3",
+      "groups": {
+        "KaguraScan": "/proxy/api/imgur/chapter/8ZHliTA/"
+      },
+      "last_updated": "133456"
+      },
+    "26": {
+      "title": "Czyż nie jestem najfajniejszy?",
+      "volume": "3",
+      "groups": {
+        "KaguraScan": "/proxy/api/imgur/chapter/XM1RsKy/"
+      },
+      "last_updated": "133456"
+      },
+    "27": {
+      "title": "Wystraszony?",
+      "volume": "3",
+      "groups": {
+        "KaguraScan": "/proxy/api/imgur/chapter/pS7HfL3/"
+      },
+      "last_updated": "133456"
+      },
+    "28": {
+      "title": "Co przyniesie dzisiejszy gniew?",
+      "volume": "3",
+      "groups": {
+        "KaguraScan": "/proxy/api/imgur/chapter/YQdmltN/"
+      },
+      "last_updated": "133456"
+    }
+  }
+}

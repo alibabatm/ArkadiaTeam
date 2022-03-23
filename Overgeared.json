@@ -1,0 +1,25 @@
+{
+  "title": "Overgeared",
+  "description": "Fajny opis kiedyś tu będzie, ale na razie nie ma go.",
+  "artist": "TBD",
+  "author": "TBD",
+  "cover": "http://phoenix-scans.pl//uploads/manga/overgeared/cover/cover_250x350.jpg",
+  "chapters": {
+    "46": {
+      "title": "",
+      "volume": "1",
+      "groups": {
+        "KaguraScans": "/proxy/api/imgur/chapter/c8voxtz/"
+      },
+      "last_updated": "0"
+      },
+      "47": { 
+        "title": "",
+        "volume": "1",
+        "groups": {
+          "KaguraScans": "/proxy/api/imgur/chapter/ArscGug/"
+        },
+        "last_updated": "0"
+    }
+  }
+}
