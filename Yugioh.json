@@ -9,7 +9,7 @@
       "title": "Boska zagadka",
       "volume": "1",
       "groups": {
-        "ArkadiaTeam": "/proxy/api/imgur/chapter/zcyvUAI/"
+        "KaguraScan": "/proxy/api/imgur/chapter/zcyvUAI/"
       },
       "last_updated": "1616368746"
     },
@@ -260,7 +260,14 @@
         "KaguraScan": "/proxy/api/imgur/chapter/nrQd9rF/"
       },
       "last_updated": "1616368746"
-    
+     },
+    "33": {
+      "title": "Przerażające pola!",
+      "volume": "4",
+      "groups": {
+        "KaguraScan": "/proxy/api/imgur/chapter/w3qk6Rc/"
+      },
+      "last_updated": "1616368746"
     }
   }
 }
