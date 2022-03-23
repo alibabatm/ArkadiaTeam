@@ -8,7 +8,7 @@ fi
 declare git_raw_base_url='https://raw.githubusercontent.com'
 declare kagura_base_dir; kagura_base_dir=$(git rev-parse --show-toplevel)
 declare this_branch; this_branch=$(git rev-parse --abbrev-ref HEAD)
-declare org_name='KaguraScans'
+declare org_name='ArkadiaTeam'
 declare repo_name='cabari-kagura-json'
 declare git_io_url='https://git.io'
 readonly cubari_reader_base_url='https://cubari.moe/read/gist'
@@ -19,7 +19,7 @@ cat<<INDEX_HTML > "$output_file"
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <html lang="pl"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
-<title>Kagura Scans reader</title>
+<title>Arkadia Team reader</title>
 <style>
 body {
 	max-width: 768px;
@@ -61,7 +61,7 @@ a:active {
 </head>
 <body bgcolor="#2E3440" text="#ECEFF4" link="#D8DEE9" vlink="#D8DEE9" alink="#E5E9F0">
 <br>
-<h2>Kagura Scans - tytuły</h2>
+<h2>Arkadia Team - tytuły</h2>
 <ol>
 INDEX_HTML
 
