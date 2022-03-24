@@ -340,6 +340,86 @@
         "KaguraScan": "/proxy/api/imgur/chapter/UJsX573/"
       },
       "last_updated": "1616368746"
+      },
+    "43": {
+      "title": "Walka potworów!, część 1",
+      "volume": "6",
+      "groups": {
+        "KaguraScan": "/proxy/api/imgur/chapter/jwtuezh/"
+      },
+      "last_updated": "1616368746"
+      },
+    "44": {
+      "title": "Walka potworów!, część 2",
+      "volume": "6",
+      "groups": {
+        "KaguraScan": "/proxy/api/imgur/chapter/63LB62O/"
+      },
+      "last_updated": "1616368746"
+      },
+    "45": {
+      "title": "Groza o 13",
+      "volume": "6",
+      "groups": {
+        "KaguraScan": "/proxy/api/imgur/chapter/7gjl3Im/"
+      },
+      "last_updated": "1616368746"
+      },
+    "46": {
+      "title": "Złowieszcze karty smoka, część 1",
+      "volume": "6",
+      "groups": {
+        "Arkadia Team": "/proxy/api/imgur/chapter/DgRLODg/"
+      },
+      "last_updated": "1616368746"
+      },
+    "47": {
+      "title": "Złowieszcze karty smoka, część 2",
+      "volume": "6",
+      "groups": {
+        "Arkadia Team": "/proxy/api/imgur/chapter/MPDvl6i/"
+      },
+      "last_updated": "1616368746"
+      },
+    "48": {
+      "title": "Jonouchi! Walka dusz!, część 1",
+      "volume": "6",
+      "groups": {
+        "Arkadia Team": "/proxy/api/imgur/chapter/v9kc0KS/"
+      },
+      "last_updated": "1616368746" 
+      },
+    "49": {
+      "title": "Jonouchi! Walka dusz!, część 2",
+      "volume": "6",
+      "groups": {
+        "Arkadia Team": "/proxy/api/imgur/chapter/qbQvrLI/"
+      },
+      "last_updated": "1616368746"
+      },
+    "50": {
+      "title": "Milenijny wróg, część 1: Tajemniczy nowy uczeń",
+      "volume": "6",
+      "groups": {
+        "Arkadia Team": "/proxy/api/imgur/chapter/n2LHbES/"
+      },
+      "last_updated": "1616368746"
+      },
+    "51": {
+      "title": "Milenijny wróg, część 2: Świat potworów",
+      "volume": "6",
+      "groups": {
+        "Arkadia Team": "/proxy/api/imgur/chapter/H9EtnJO/"
+      },
+      "last_updated": "1616368746"
+      },
+    "52": {
+      "title": "Milenijny wróg, część 3: Wtopa zagłady!",
+      "volume": "7",
+      "groups": {
+        "Arkadia Team": "/proxy/api/imgur/chapter/YEYYZ7A/"
+      },
+      "last_updated": "1616368746"
     }
   }
 }
