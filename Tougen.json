@@ -199,7 +199,7 @@
       },
     "25": {
       "title": "Legenda o niewiarygodnym bohaterze",
-      "volume": "3",
+      "volume": "4",
       "groups": {
         "KaguraScan": "/proxy/api/imgur/chapter/8ZHliTA/"
       },
@@ -207,7 +207,7 @@
       },
     "26": {
       "title": "Czyż nie jestem najfajniejszy?",
-      "volume": "3",
+      "volume": "4",
       "groups": {
         "KaguraScan": "/proxy/api/imgur/chapter/XM1RsKy/"
       },
@@ -215,7 +215,7 @@
       },
     "27": {
       "title": "Wystraszony?",
-      "volume": "3",
+      "volume": "4",
       "groups": {
         "KaguraScan": "/proxy/api/imgur/chapter/pS7HfL3/"
       },
@@ -223,9 +223,161 @@
       },
     "28": {
       "title": "Co przyniesie dzisiejszy gniew?",
-      "volume": "3",
+      "volume": "4",
       "groups": {
         "KaguraScan": "/proxy/api/imgur/chapter/YQdmltN/"
+      },
+      "last_updated": "133456"
+      },
+    "29": {
+      "title": "Niezmienny dylemat",
+      "volume": "4",
+      "groups": {
+        "KaguraScan": "/proxy/api/imgur/chapter/vGBHW3c/"
+      },
+      "last_updated": "133456"
+      },
+    "30": {
+      "title": "Duch Momotaro",
+      "volume": "4",
+      "groups": {
+        "KaguraScan": "/proxy/api/imgur/chapter/6lFCFIT/"
+      },
+      "last_updated": "133456"
+      },
+    "31": {
+      "title": "Dziecko Kishin",
+      "volume": "4",
+      "groups": {
+        "KaguraScan": "/proxy/api/imgur/chapter/8gWw9mP/"
+      },
+      "last_updated": "133456"
+      },
+    "32": {
+      "title": "Ponieważ mam serce",
+      "volume": "4",
+      "groups": {
+        "KaguraScan": "/proxy/api/imgur/chapter/uRaHCIO/"
+      },
+      "last_updated": "133456"
+      },
+    "33": {
+      "title": "Daj z siebie wszystko!!",
+      "volume": "4",
+      "groups": {
+        "KaguraScan": "/proxy/api/imgur/chapter/BaLjDGk/"
+      },
+      "last_updated": "133456"
+      },
+    "34": {
+      "title": "Nienawidziłem go",
+      "volume": "5",
+      "groups": {
+        "KaguraScan": "/proxy/api/imgur/chapter/uFM6Zdx/"
+      },
+      "last_updated": "133456"
+      },
+    "35": {
+      "title": "Dziękuję",
+      "volume": "5",
+      "groups": {
+        "KaguraScan": "/proxy/api/imgur/chapter/cikeVGe/"
+      },
+      "last_updated": "133456"
+      },
+    "36": {
+      "title": "Przydział pokoi",
+      "volume": "5",
+      "groups": {
+        "KaguraScan": "/proxy/api/imgur/chapter/Mv8e0fd/"
+      },
+      "last_updated": "133456"
+      },
+    "37": {
+      "title": "Mikado „brama bogów”",
+      "volume": "5",
+      "groups": {
+        "KaguraScan": "/proxy/api/imgur/chapter/LvTvBSt/"
+      },
+      "last_updated": "133456"
+      },
+    "38": {
+      "title": "Jeśli",
+      "volume": "5",
+      "groups": {
+        "KaguraScan": "/proxy/api/imgur/chapter/Gyy6pna/"
+      },
+      "last_updated": "133456"
+      },
+    "39": {
+      "title": "Osobista zasada",
+      "volume": "5",
+      "groups": {
+        "KaguraScan": "/proxy/api/imgur/chapter/FwikcRR/"
+      },
+      "last_updated": "133456"
+      },
+    "40": {
+      "title": "Cieszę się",
+      "volume": "5",
+      "groups": {
+        "KaguraScan": "/proxy/api/imgur/chapter/Xhj531m/"
+      },
+      "last_updated": "133456"
+      },
+    "41": {
+      "title": "Odpowiadający za Nerimę",
+      "volume": "5",
+      "groups": {
+        "KaguraScan": "/proxy/api/imgur/chapter/pthpUNm/"
+      },
+      "last_updated": "133456"
+      },
+    "42": {
+      "title": "Determinacja",
+      "volume": "5",
+      "groups": {
+        "KaguraScan": "/proxy/api/imgur/chapter/N9vNGKL/"
+      },
+      "last_updated": "133456"
+       },
+    "43": {
+      "title": "Na tropie",
+      "volume": "6",
+      "groups": {
+        "KaguraScan": "/proxy/api/imgur/chapter/BVh5SvQ/"
+      },
+      "last_updated": "133456"
+       },
+    "44": {
+      "title": "Odnalazłem cię",
+      "volume": "6",
+      "groups": {
+        "KaguraScan": "/proxy/api/imgur/chapter/wk5uQhC/"
+      },
+      "last_updated": "133456"
+      },
+    "45": {
+      "title": "Ty i ja",
+      "volume": "6",
+      "groups": {
+        "KaguraScan": "/proxy/api/imgur/chapter/Ho1bE5v/"
+      },
+      "last_updated": "133456"
+      },
+    "46": {
+      "title": "Jesienne oberwanie chmury",
+      "volume": "6",
+      "groups": {
+        "KaguraScan": "/proxy/api/imgur/chapter/QivMpaZ/"
+      },
+      "last_updated": "133456"
+      },
+    "47": {
+      "title": "Światło księżyca raduje się twoim zgonem",
+      "volume": "6",
+      "groups": {
+        "KaguraScan": "/proxy/api/imgur/chapter/WPutZfm/"
       },
       "last_updated": "133456"
     }
