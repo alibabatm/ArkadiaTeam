@@ -3,31 +3,39 @@
   "description": "Opis: Ira Takuto w młodym wieku zapadł na chorobę i odrodził się w świecie przypominającym strategiczną grę symulacyjną „Eternal Nations”, w którą uwielbiał grać za życia. Przed nim pojawiła się Atou, dziewczyna należąca do złej cywilizacji, którą grał jako „Mynoghra”. Oboje postanowili jeszcze raz stworzyć nowy kraj w tym świecie.",
   "artist": "MIDORIHANA Yasaiko",
   "author": "Kazuno Fefu",
-  "cover": "https://static.wikia.nocookie.net/the-remarried-empress/images/5/54/Naver_Cover.png",
+  "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTvHU0tiAThX-f37f0XZLhCjih3xQX5_P2UMI8fNPbrAvzyevGh6uKf8Y_d2PMseLTzOEfuxGpQ5ur6ckyJ8_vemtsqK0cv-lTET8xf20jRAXPLKqREa3r5BFa-fFGcVr6ZounfH2ZlwapFnNMTdiDiDGOLie8taLWg5l-BnnO7psCDZNAsx8l-Blo6w/s680/mynoghra.jpg",
   "chapters": {
     "1": {
-      "title": "",
+      "title": "Nowa Gra",
       "volume": "1",
       "groups": {
-        "Arkadia Team": "/proxy/api/imgur/chapter/OFgC4TI/"
+        "Arkadia Team": "/proxy/api/imgur/chapter/18r6J27/"
       },
       "last_updated": "0"
       },
       "2": { 
-        "title": "",
+        "title": "Mroczny elf",
         "volume": "1",
         "groups": {
-          "Arkadia Team": "/proxy/api/imgur/chapter/lPbAGFG/"
+          "Arkadia Team": "/proxy/api/imgur/chapter/sj7bZIy/"
         },
         "last_updated": "0" 
         },
       "3": { 
-        "title": "",
+        "title": "Negocjacje",
         "volume": "1",
         "groups": {
-          "Arkadia Team": "/proxy/api/imgur/chapter/TkvaPrS/"
+          "Arkadia Team": "/proxy/api/imgur/chapter/yOmyMFg/"
         },
-        "last_updated": "0"     
+        "last_updated": "0"
+        },
+      "4": { 
+        "title": "Technologia",
+        "volume": "1",
+        "groups": {
+          "Arkadia Team": "/proxy/api/imgur/chapter/HTQnzNF/"
+        },
+        "last_updated": "0"
     }
   }
 }
