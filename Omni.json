@@ -1,31 +1,31 @@
 {
-  "title": "Isekai Apocalypse MYNOGHRA",
-  "description": "Opis: Ira Takuto zachorował w młodym wieku i odrodził się w świecie, który przypominał strategiczną grę symulacyjną 『Eternal Nations』, w którą uwielbiał grać za życia. Przed nim pojawiła się Atou, dziewczyna należąca do złej cywilizacji, w którą kiedyś grał, 「Mynoghra」. Dwoje z nich postanowiło ponownie stworzyć nowy kraj w tym świecie.",
-  "artist": "Kazuno Fefu",
-  "author": "Kazuno Fefu",
-  "cover": "https://static.wikia.nocookie.net/the-remarried-empress/images/5/54/Naver_Cover.png",
+  "title": "Omniscient Reader's Viewpoint",
+  "description": "Opis: Dokja był przeciętnym pracownikiem biurowym, którego jedynym zainteresowaniem było czytanie jego ulubionej web novelki, "Trzy sposoby na przetrwanie apokalipsy". Jednak gdy powieść nagle staje się rzeczywistością, Dokja jest jedyną osobą, która wie, jak skończy się świat. Uzbrojony w tę świadomość Dokja wykorzystuje swoją wiedzę, aby zmienić bieg historii i świata, jaki zna.",
+  "artist": "Sing Shong",
+  "author": "Sing Shong",
+  "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwqCBWwob-vGmMEcpl6FXRvniryr8y4VXYs4xa7IyXUYanJdrX3BLvGlRvC7PFso_i3IIq_OJaLwFCLm2KLgmBo62EhA6fHEyZr3xK5mqJnP9bPphcm-wuLX1z3hJeEeccF4gIs_isMR2PXIw1gQVUKmGauflURkuB-0suI3EAqqpBVSaomqq4_7P4KA/s680/omni.jpg",
   "chapters": {
-    "1": {
-      "title": "",
+    "0": {
+      "title": "Prolog",
       "volume": "1",
       "groups": {
-        "Arkadia Team": "/proxy/api/imgur/chapter/OFgC4TI/"
+        "Arkadia Team": "/proxy/api/imgur/chapter/CxbZCgw/"
       },
       "last_updated": "0"
       },
-      "2": { 
-        "title": "",
+      "1": { 
+        "title": "Trzy sposoby na przetrwanie w postapokaliptycznym świecie",
         "volume": "1",
         "groups": {
-          "Arkadia Team": "/proxy/api/imgur/chapter/lPbAGFG/"
+          "Arkadia Team": "/proxy/api/imgur/chapter/JkUUrY8/"
         },
         "last_updated": "0" 
         },
-      "3": { 
-        "title": "",
+      "2": { 
+        "title": "Uruchamianie płatnej usługi, część 1",
         "volume": "1",
         "groups": {
-          "Arkadia Team": "/proxy/api/imgur/chapter/TkvaPrS/"
+          "Arkadia Team": "/proxy/api/imgur/chapter/U0qfWKt/"
         },
         "last_updated": "0"     
     }
