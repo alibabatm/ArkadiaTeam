@@ -1,5 +1,5 @@
 {
-  "title": "Isekai Apocalypse MYNOGHRA",
+  "title": "Gong Heon Ja",
   "description": "Opis: W dalekiej przyszłości w kierunku Ziemi spada meteor, ale nagle znika w chwili, gdy ma wylądować. W tym samym czasie na świecie pojawiają się potwory i ludzie, którzy zaczynają zdobywać super moce. Świat zaczyna się zmieniać i ewoluować. Kiedy Tae Min Park zdaje sobie z tego sprawę, robi wszystko, co w jego mocy, by odnaleźć prawdę o wolności.",
   "artist": "Han Seojin",
   "author": "Gwon Yibaek",
@@ -9,7 +9,7 @@
       "title": "",
       "volume": "1",
       "groups": {
-        "Arkadia Team": "/proxy/api/imgur/chapter/OFgC4TI/"
+        "KaguraScans": "/proxy/api/imgur/chapter/cHCcq5S/"
       },
       "last_updated": "0"
       },
@@ -17,7 +17,7 @@
         "title": "",
         "volume": "1",
         "groups": {
-          "Arkadia Team": "/proxy/api/imgur/chapter/lPbAGFG/"
+          "KaguraScans": "/proxy/api/imgur/chapter/idV0lIg/"
         },
         "last_updated": "0" 
         },
@@ -25,9 +25,57 @@
         "title": "",
         "volume": "1",
         "groups": {
-          "Arkadia Team": "/proxy/api/imgur/chapter/TkvaPrS/"
+          "KaguraScans": "/proxy/api/imgur/chapter/8ap9TC8/"
         },
-        "last_updated": "0"     
+        "last_updated": "0"
+        },
+      "4": { 
+        "title": "",
+        "volume": "1",
+        "groups": {
+          "KaguraScans": "/proxy/api/imgur/chapter/qMuW8uf/"
+        },
+        "last_updated": "0"
+        },
+      "5": { 
+        "title": "",
+        "volume": "1",
+        "groups": {
+          "KaguraScans": "/proxy/api/imgur/chapter/4toqgR9/"
+        },
+        "last_updated": "0"
+        },
+      "6": { 
+        "title": "",
+        "volume": "1",
+        "groups": {
+          "KaguraScans": "/proxy/api/imgur/chapter/ywdM2T4/"
+        },
+        "last_updated": "0"
+        },
+      "7": { 
+        "title": "",
+        "volume": "1",
+        "groups": {
+          "KaguraScans": "/proxy/api/imgur/chapter/Ja4EYFX/"
+        },
+        "last_updated": "0"
+        },
+      "8": { 
+        "title": "",
+        "volume": "1",
+        "groups": {
+          "KaguraScans": "/proxy/api/imgur/chapter/ex9WS2x/"
+        },
+        "last_updated": "0"
+        },
+      "9": { 
+        "title": "",
+        "volume": "1",
+        "groups": {
+          "KaguraScans": "/proxy/api/imgur/chapter/BkYGuCH/"
+        },
+        "last_updated": "0"
     }
   }
 }
