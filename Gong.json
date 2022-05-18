@@ -76,6 +76,46 @@
           "KaguraScans": "/proxy/api/imgur/chapter/BkYGuCH/"
         },
         "last_updated": "0"
+        },
+      "10": { 
+        "title": "",
+        "volume": "1",
+        "groups": {
+          "Arkadia Team": "/proxy/api/imgur/chapter/Ckxgv6u/"
+        },
+        "last_updated": "0"
+        },
+      "11": { 
+        "title": "",
+        "volume": "1",
+        "groups": {
+          "Arkadia Team": "/proxy/api/imgur/chapter/W6BW4nA/"
+        },
+        "last_updated": "0"
+        },
+      "12": { 
+        "title": "",
+        "volume": "1",
+        "groups": {
+          "Arkadia Team": "/proxy/api/imgur/chapter/9gsXTkV/"
+        },
+        "last_updated": "0"
+        },
+      "13": { 
+        "title": "",
+        "volume": "1",
+        "groups": {
+          "Arkadia Team": "/proxy/api/imgur/chapter/Dl5vUNZ/"
+        },
+        "last_updated": "0"
+        },
+      "14": { 
+        "title": "",
+        "volume": "1",
+        "groups": {
+          "Arkadia Team": "/proxy/api/imgur/chapter/OS2eeZR/"
+        },
+        "last_updated": "0"
     }
   }
 }
